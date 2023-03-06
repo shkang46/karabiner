@@ -288,7 +288,7 @@
 					"to": [
 						{
 							"key_code": "spacebar",
-							"modifiers": ["left_gui, left_control"]
+							"modifiers": ["left_gui", "left_control"]
 						}
 					],
 					"type": "basic"
