@@ -282,7 +282,7 @@
 					"from": {
 						"key_code": "period",
 						"modifiers": {
-							"optional": ["caps_lock"]
+							"optional": ["any"]
 						}
 					},
 					"to": [
