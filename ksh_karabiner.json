@@ -496,15 +496,15 @@
 						}
 					],
 					"from": {
-						"key_code": "enter",
+						"key_code": "return_or_enter",
 						"modifiers": {
 							"optional": ["any"]
 						}
 					},
 					"to": [
 						{
-							"key_code": "enter",
-							"modifiers": ["left_shift, left_gui", "left_control", "left_option"]
+							"key_code": "return_or_enter",
+							"modifiers": ["shift, left_gui", "left_control", "left_option"]
 						}
 					],
 					"type": "basic"
