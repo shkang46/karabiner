@@ -504,7 +504,7 @@
 					"to": [
 						{
 							"key_code": "enter",
-							"modifiers": ["left_gui", "left_control", "left_option"]
+							"modifiers": ["left_shift, left_gui", "left_control", "left_option"]
 						}
 					],
 					"type": "basic"
