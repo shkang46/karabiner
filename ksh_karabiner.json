@@ -511,7 +511,7 @@
 				},
 				{
 					"from": {
-						"key_code": "f14",
+						"key_code": "f24",
 						"modifiers": {
 							"optional": ["any"]
 						}
