@@ -508,6 +508,20 @@
 						}
 					],
 					"type": "basic"
+				},
+				{
+					"from": {
+						"key_code": "f14",
+						"modifiers": {
+							"optional": ["any"]
+						}
+					},
+					"to": [
+						{
+							"modifiers": ["left_shift", "left_option", "left_command"]
+						}
+					],
+					"type": "basic"
 				}
 			]
 		}
