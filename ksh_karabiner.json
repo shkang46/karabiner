@@ -508,27 +508,6 @@
 						}
 					],
 					"type": "basic"
-				},
-				{
-					"conditions": [
-						{
-							"name": "ksh_karabiner",
-							"type": "variable_if",
-							"value": 0
-						}
-					],
-					"from": {
-						"key_code": "f24",
-						"modifiers": {
-							"optional": ["any"]
-						}
-					},
-					"to": [
-						{
-							"modifiers": ["left_option", "left_command"]
-						}
-					],
-					"type": "basic"
 				}
 			]
 		}
