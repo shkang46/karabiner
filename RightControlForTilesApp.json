@@ -37,7 +37,7 @@
 				{
 					"conditions": [
 						{
-							"name": "ksh_karabiner",
+							"name": "ksh_right_control_for_tiles_app",
 							"type": "variable_if",
 							"value": 1
 						}
@@ -59,7 +59,7 @@
 				{
 					"conditions": [
 						{
-							"name": "ksh_karabiner",
+							"name": "ksh_right_control_for_tiles_app",
 							"type": "variable_if",
 							"value": 1
 						}
@@ -81,7 +81,7 @@
 				{
 					"conditions": [
 						{
-							"name": "ksh_karabiner",
+							"name": "ksh_right_control_for_tiles_app",
 							"type": "variable_if",
 							"value": 1
 						}
@@ -103,7 +103,7 @@
 				{
 					"conditions": [
 						{
-							"name": "ksh_karabiner",
+							"name": "ksh_right_control_for_tiles_app",
 							"type": "variable_if",
 							"value": 1
 						}
