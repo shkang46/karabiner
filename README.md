@@ -1,13 +1,29 @@
 # KSH Karabiner
 
+## Install Karabiner
+### 설치
+[Karabiner](https://karabiner-elements.pqrs.org/)
+### 하단배열 확인
+1. Open `Karabiner-EventViewer`
+2. 하단배열 입력하여 현재 키 코드 확인
+3. (변경이 필요한 경우) 키보드 자체 매핑 프로그램
+   또는 시스템 설정 → 키보드 → 키보드 단축키 → 보조 키
+
+## 한영전환
+1. Open `Karabiner-Elements`
+2. Simple Modification → For all devices
+3. `right_command` → `f19`
+4. 시스템 설정 → 키보드 → 키보드 단축키 → 입력 소스 → 입력 메뉴에서 다음 소스 선택 → `right_command` 입력 → 완료
 
 ## Capslock Mod
 1. Import to Karabiner
 ```
 karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/shkang46/karabiner/main/ksh_karabiner.json
 ```
-
 2. Enable `ksh_karabiner`
+3. Move to Simple Modification → For all devices
+4. `caps_lock`(Modifier Keys) → `f20`(Function Keys)
+5. (Optional) 필요한 경우 `caps_lock`을 안쓰는 키에 할당
 
 #### Detail
 | From              | To                    | Description             | Dependency |
@@ -42,20 +58,19 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 ## Tiles.app
 
-Easy to use [Tiles.app](https://freemacsoft.net/tiles/)
+[Tiles](https://freemacsoft.net/tiles/)
 
 1. Import to Karabiner
 ```
 karabiner://karabiner/assets/complex_modifications/import?url=https://github.com/shkang46/karabiner/blob/main/RightControlForTilesApp.json
 ```
-
 2. Enable  'ksh_right_control_for_tiles_app`
 
 #### Detail
 | From              | To                    | Description             | Dependency |
 | ----------------- | --------------------- | ----------------------- | ---------- |
-| ↑                 | `Opt` `Cmd` `↑`       | 화면 상단 정렬             | Tiles      |
-| ←                 | `Opt` `Cmd` `←`       | 화면 좌측 정렬             | Tiles      |
-| ↓                 | `Opt` `Cmd` `↓`       | 화면 하단 정렬             | Tiles      |
-| →                 | `Opt` `Cmd` `→`       | 화면 우측 정렬             | Tiles      |
+| `Right Ctrl` `↑`  | `Opt` `Cmd` `↑`       | 화면 상단 정렬             | Tiles      |
+| `Right Ctrl` `←`  | `Opt` `Cmd` `←`       | 화면 좌측 정렬             | Tiles      |
+| `Right Ctrl` `↓`  | `Opt` `Cmd` `↓`       | 화면 하단 정렬             | Tiles      |
+| `Right Ctrl` `→`  | `Opt` `Cmd` `→`       | 화면 우측 정렬             | Tiles      |
 
