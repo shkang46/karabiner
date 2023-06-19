@@ -772,7 +772,7 @@
 						}
 					],
 					"from": {
-						"key_code": "10",
+						"key_code": "0",
 						"modifiers": {
 							"optional": ["any"]
 						}
@@ -793,7 +793,7 @@
 						}
 					],
 					"from": {
-						"key_code": "11",
+						"key_code": "hyphen",
 						"modifiers": {
 							"optional": ["any"]
 						}
@@ -814,7 +814,7 @@
 						}
 					],
 					"from": {
-						"key_code": "12",
+						"key_code": "equal_sign",
 						"modifiers": {
 							"optional": ["any"]
 						}
