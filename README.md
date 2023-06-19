@@ -12,8 +12,8 @@
 ## 한영전환
 1. Open `Karabiner-Elements`
 2. Simple Modification → For all devices
-3. `right_command` → `f19`
-4. 시스템 설정 → 키보드 → 키보드 단축키 → 입력 소스 → 입력 메뉴에서 다음 소스 선택 → `right_command` 입력 → 완료
+3. `한/영으로 쓸 키` → `f19`
+4. 시스템 설정 → 키보드 → 키보드 단축키 → 입력 소스 → 입력 메뉴에서 다음 소스 선택 → `한/영으로 쓸 키` 입력 → 완료
 
 ## Capslock Mod
 1. Import to Karabiner
