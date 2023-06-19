@@ -1,12 +1,12 @@
 {
-	"title": "ksh_f21_for_tiles_app",
+	"title": "ksh_right_control_for_tiles_app",
 	"rules": [
 		{
 			"description": "Right Control for Tiles.app",
 			"manipulators": [
 				{
 					"from": {
-						"key_code": "f21",
+						"key_code": "right_control",
 						"modifiers": {
 							"optional": ["caps_lock"]
 						}
@@ -14,7 +14,7 @@
 					"to": [
 						{
 							"set_variable": {
-								"name": "ksh_f21_for_tiles_app",
+								"name": "ksh_right_control_for_tiles_app",
 								"value": 1
 							}
 						}
@@ -22,14 +22,14 @@
 					"to_after_key_up": [
 						{
 							"set_variable": {
-								"name": "ksh_f21_for_tiles_app",
+								"name": "ksh_right_control_for_tiles_app",
 								"value": 0
 							}
 						}
 					],
 					"to_if_alone": [
 						{
-							"key_code": "f21"
+							"key_code": "right_control"
 						}
 					],
 					"type": "basic"
@@ -37,7 +37,7 @@
 				{
 					"conditions": [
 						{
-							"name": "ksh_f21_for_tiles_app",
+							"name": "ksh_right_control_for_tiles_app",
 							"type": "variable_if",
 							"value": 1
 						}
@@ -59,7 +59,7 @@
 				{
 					"conditions": [
 						{
-							"name": "ksh_f21_for_tiles_app",
+							"name": "ksh_right_control_for_tiles_app",
 							"type": "variable_if",
 							"value": 1
 						}
@@ -81,7 +81,7 @@
 				{
 					"conditions": [
 						{
-							"name": "ksh_f21_for_tiles_app",
+							"name": "ksh_right_control_for_tiles_app",
 							"type": "variable_if",
 							"value": 1
 						}
@@ -103,7 +103,7 @@
 				{
 					"conditions": [
 						{
-							"name": "ksh_f21_for_tiles_app",
+							"name": "ksh_right_control_for_tiles_app",
 							"type": "variable_if",
 							"value": 1
 						}
