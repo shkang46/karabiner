@@ -530,6 +530,62 @@
 						}
 					],
 					"type": "basic"
+				},
+				{
+					"conditions": [
+						{
+							"name": "ksh_karabiner",
+							"type": "variable_if",
+							"value": 1
+						}
+					],
+					"from": {
+						"key_code": "open_bracket",
+						"modifiers": {
+							"optional": ["any"]
+						}
+					},
+					"to": [
+						{
+							"key_code": "s",
+							"modifiers": ["left_shift"]
+						},
+						{
+							"key_code": "a"
+						},
+						{
+							"key_code": "l"
+						},
+						{
+							"key_code": "e"
+						},
+						{
+							"key_code": "s"
+						},
+						{
+							"key_code": "f"
+						},
+						{
+							"key_code": "o"
+						},
+						{
+							"key_code": "r"
+						},
+						{
+							"key_code": "c"
+						},
+						{
+							"key_code": "e"
+						},
+						{
+							"key_code": "2",
+							"modifiers": ["left_shift"]
+						},
+						{
+							"key_code": "1"
+						}
+					],
+					"type": "basic"
 				}
 			]
 		}
