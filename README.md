@@ -8,6 +8,7 @@
 2. 하단배열 입력하여 현재 키 코드 확인
 3. (변경이 필요한 경우) 키보드 자체 매핑 프로그램
    또는 시스템 설정 → 키보드 → 키보드 단축키 → 보조 키
+4. 권장: `left_control` `left_option` `left_command` `spacebar` `f19` `(right_option)` `right_control`
 
 ## 한영전환
 1. Open `Karabiner-Elements`
