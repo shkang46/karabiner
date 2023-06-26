@@ -1,5 +1,10 @@
 # KSH Karabiner
 
+* Karabiner는 <strong>MacOS</strong>만 지원함
+* <strong>Windows</strong> 유저는 [kanata](https://github.com/jtroo/kanata) 참조
+
+---
+
 ## Install Karabiner
 ### 설치
 [Karabiner](https://karabiner-elements.pqrs.org/)
@@ -10,11 +15,15 @@
    또는 시스템 설정 → 키보드 → 키보드 단축키 → 보조 키
 4. 권장: <kbd>left_control</kbd> <kbd>left_option</kbd> <kbd>left_command</kbd> <kbd>spacebar</kbd> <kbd>f19</kbd> <kbd>(right_option)</kbd> <kbd>right_control<kbd>
 
+---
+
 ## 한영전환
 1. Open `Karabiner-Elements`
 2. Simple Modification → For all devices
 3. <kbd>한/영으로 쓸 키</kbd> → <kbd>f19</kbd>
 4. 시스템 설정 → 키보드 → 키보드 단축키 → 입력 소스 → 입력 메뉴에서 다음 소스 선택 → <kbd>한/영으로 쓸 키</kbd> 입력 → 완료
+
+---
 
 ## Capslock Mod
 1. Import to Karabiner
@@ -56,6 +65,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>caps_lock</kbd> <kbd>{</kbd>     |                                                    |                         |            |
 | <kbd>caps_lock</kbd> <kbd>}</kbd>     |                                                    |                         |            |
 
+---
 
 ## Tiles.app
 
