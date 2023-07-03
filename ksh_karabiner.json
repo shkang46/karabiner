@@ -504,7 +504,11 @@
 					"to": [
 						{
 							"key_code": "return_or_enter",
-							"modifiers": ["left_shift", "left_option", "left_command"]
+							"modifiers": [
+								"left_shift",
+								"left_option",
+								"left_command"
+							]
 						}
 					],
 					"type": "basic"
@@ -822,6 +826,57 @@
 					"to": [
 						{
 							"key_code": "f12"
+						}
+					],
+					"type": "basic"
+				},
+				{
+					"conditions": [
+						{
+							"name": "ksh_karabiner",
+							"type": "variable_if",
+							"value": 1
+						}
+					],
+					"from": {
+						"key_code": "insert",
+						"modifiers": {
+							"optional": ["any"]
+						}
+					},
+					"to": [
+						{
+							"key_code": "s"
+						},
+						{
+							"key_code": "a"
+						},
+						{
+							"key_code": "l"
+						},
+						{
+							"key_code": "e"
+						},
+						{
+							"key_code": "s"
+						},
+						{
+							"key_code": "e"
+						},
+						{
+							"key_code": "f"
+						},
+						{
+							"key_code": "o"
+						},
+						{
+							"key_code": "r"
+						},
+						{
+							"key_code": "c"
+						},
+						{
+							"key_code": "e"
 						}
 					],
 					"type": "basic"
