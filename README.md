@@ -87,7 +87,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 karabiner://karabiner/assets/complex_modifications/import?url=https://github.com/shkang46/karabiner/blob/main/RightControlForTilesApp.json
 ```
 
-2. Enable 'ksh_right_control_for_tiles_app<kbd>
+2. Enable `ksh_right_control_for_tiles_app`
 
 #### Detail
 
