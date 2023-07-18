@@ -846,7 +846,8 @@
 					},
 					"to": [
 						{
-							"key_code": "s"
+							"key_code": "s",
+							"modifiers": ["left_shift"]
 						},
 						{
 							"key_code": "a"
@@ -859,9 +860,6 @@
 						},
 						{
 							"key_code": "s"
-						},
-						{
-							"key_code": "e"
 						},
 						{
 							"key_code": "f"
