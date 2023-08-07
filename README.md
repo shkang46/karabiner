@@ -26,7 +26,7 @@
 1. Open `Karabiner-Elements`
 2. Simple Modification → For all devices
 3. <kbd>한/영으로 쓸 키</kbd> → <kbd>f19</kbd>
-4. 시스템 설정 → 키보드 → 키보드 단축키 → 입력 소스 → 입력 메뉴에서 다음 소스 선택 → <kbd>한/영으로 쓸 키</kbd> 입력 → 완료
+4. 시스템 설정 → 키보드 → 키보드 단축키 → 입력 소스 → 입력 메뉴에서 다음 소스 선택 → <kbd>한/영으로 쓸 키(f19)</kbd> 입력 → 완료
 
 ---
 
@@ -98,3 +98,5 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://github.com
 | <kbd>Right Ctrl</kbd> <kbd>←</kbd> | <kbd>Opt</kbd> <kbd>Cmd</kbd> <kbd>←</kbd> | 화면 좌측 정렬 | Tiles      |
 | <kbd>Right Ctrl</kbd> <kbd>↓</kbd> | <kbd>Opt</kbd> <kbd>Cmd</kbd> <kbd>↓</kbd> | 화면 하단 정렬 | Tiles      |
 | <kbd>Right Ctrl</kbd> <kbd>→</kbd> | <kbd>Opt</kbd> <kbd>Cmd</kbd> <kbd>→</kbd> | 화면 우측 정렬 | Tiles      |
+
+> 주의 : <kbd>Opt</kbd><kbd>Cmd</kbd> + <kbd>↑</kbd> or <kbd>↓</kbd>는 VSCode에서 Cursor 관련 단축키로 사용됨
