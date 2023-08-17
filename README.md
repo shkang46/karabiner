@@ -64,16 +64,16 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>CapsLock</kbd> <kbd>K</kbd>         | <kbd>Opt</kbd> <kbd>↓</kbd>                                                                                              | 현재 라인 아래로 옮기기 | VSCode                    |
 | <kbd>CapsLock</kbd> <kbd>P</kbd>         | <kbd>Backspace</kbd>                                                                                                     | 앞 글자 지우기          |                           |
 | <kbd>CapsLock</kbd> <kbd>M</kbd>         | <kbd>Delete</kbd>                                                                                                        | 뒷 글자 지우기          |                           |
-| <kbd>CapsLock</kbd> <kbd>Y</kbd>         | <kbd>Insert</kbd>                                                                                                        |                         |                           |
-| <kbd>CapsLock</kbd> <kbd>H</kbd>         | <kbd>Page Up</kbd>                                                                                                       |                         |                           |
-| <kbd>CapsLock</kbd> <kbd>N</kbd>         | <kbd>Page Down</kbd>                                                                                                     |                         |                           |
+| <kbd>CapsLock</kbd> <kbd>H</kbd>         | <kbd>Opt</kbd> <kbd>Shift</kbd> <kbd>←</kbd>                                                                             | 다음 한 단어 선택       |                           |
+| <kbd>CapsLock</kbd> <kbd>;</kbd>         | <kbd>Opt</kbd> <kbd>Shift</kbd> <kbd>→</kbd>                                                                             | 이전 한 단어 선택       |                           |
+| <kbd>CapsLock</kbd> <kbd>Y</kbd>         | <kbd>Opt</kbd> <kbd>Shift</kbd> <kbd>↑</kbd>                                                                             | 현재 라인 복사 위로     | VSCode                    |
+| <kbd>CapsLock</kbd> <kbd>N</kbd>         | <kbd>Opt</kbd> <kbd>Shift</kbd> <kbd>↓</kbd>                                                                             | 현재 라인 복사 아래로   | VSCode                    |
 | <kbd>CapsLock</kbd> <kbd>.</kbd>         | <kbd>Ctrl</kbd> <kbd>Cmd</kbd> <kbd>Space</kbd>                                                                          | 이모티콘                |                           |
 | <kbd>CapsLock</kbd> <kbd>F</kbd>         | <kbd>Cmd</kbd> <kbd>Shift</kbd> <kbd>F</kbd>                                                                             | 한 줄 지우기            | VSCode                    |
 | <kbd>CapsLock</kbd> <kbd>ESC</kbd>       | <kbd>Backtick</kbd> </kbd>                                                                                               |                         |                           |
 | <kbd>CapsLock</kbd> <kbd>G</kbd>         | <kbd>Ctrl</kbd> <kbd>Opt</kbd> <kbd>L</kbd>                                                                              | Log 생성                | VSCode, Turbo Console Log |
-| <kbd>CapsLock</kbd> <kbd>{</kbd>         |                                                                                                                          |                         |                           |
-| <kbd>CapsLock</kbd> <kbd>}</kbd>         |                                                                                                                          |                         |                           |
-| <kbd>CapsLock</kbd> <kbd>INSERT</kbd>    | <kbd>S</kbd><kbd>a</kbd><kbd>l</kbd><kbd>e</kbd><kbd>s</kbd><kbd>f</kbd><kbd>o</kbd><kbd>r</kbd><kbd>c</kbd><kbd>e</kbd> |                         |                           |
+| <kbd>CapsLock</kbd> <kbd>{</kbd>         |                                                                                                                          | Private                 |                           |
+| <kbd>CapsLock</kbd> <kbd>}</kbd>         |                                                                                                                          | Private                 |                           |
 | <kbd>CapsLock</kbd> <kbd>BACKSLASH</kbd> | <kbd>S</kbd><kbd>a</kbd><kbd>l</kbd><kbd>e</kbd><kbd>s</kbd><kbd>f</kbd><kbd>o</kbd><kbd>r</kbd><kbd>c</kbd><kbd>e</kbd> |                         |                           |
 
 ---
