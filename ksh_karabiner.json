@@ -952,6 +952,28 @@
 						}
 					],
 					"type": "basic"
+				},
+				{
+					"conditions": [
+						{
+							"name": "ksh_karabiner",
+							"type": "variable_if",
+							"value": 1
+						}
+					],
+					"from": {
+						"key_code": "spacebar",
+						"modifiers": {
+							"optional": ["any"]
+						}
+					},
+					"to": [
+						{
+							"key_code": "hyphen",
+							"modifiers": ["left_control"]
+						}
+					],
+					"type": "basic"
 				}
 			]
 		}
