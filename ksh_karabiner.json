@@ -32,7 +32,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "A | Left Arrow",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -56,7 +55,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "B | none",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -80,7 +78,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "C | none",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -104,7 +101,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "D | Right Arrow",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -128,7 +124,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "E | 다음 탭",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -150,7 +145,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "F | (VSCode) 한 줄 지우기",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -173,7 +167,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "G | none",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -197,7 +190,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "H | 다음 한 단어 선택",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -220,7 +212,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "I | (VSCode) 현재 라인 위로 올리기",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -242,7 +233,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "J | 이전 한 단어 커서 이동",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -264,7 +254,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "K | (VSCode) 현재 라인 아래로 옮기기",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -286,7 +275,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "L | 다음 한 단어 커서 이동",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -308,7 +296,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "M | 뒷 글자 지우기",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -327,7 +314,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "N | (VSCode) 현재 라인 복사 아래로",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -350,7 +336,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "O | 다음 한 단어 지우기",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -372,7 +357,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "P | 앞 글자 지우기",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -391,7 +375,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "Q | 이전 탭",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -414,7 +397,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "R | (Chrome) 강력 새로고침",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -437,7 +419,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "S | Down Arrow",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -462,7 +443,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "T | none",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -486,7 +466,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "U | 이전 한 단어 지우기",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -508,7 +487,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "V | none",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -532,7 +510,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "W → Up Arrow",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -557,7 +534,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "X → 다음 데스크탑",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -579,7 +555,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "Y → (VSCode) 현재 라인 위로 복사",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -602,7 +577,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "Z → 이전 데스크탑",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -624,7 +598,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "1 → f1",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -648,7 +621,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "2 → f2",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -672,7 +644,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "3 → f3",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -696,7 +667,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "4 → f4",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -720,7 +690,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "5 → f5",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -744,7 +713,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "6 → f6",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -768,7 +736,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "7 → f7",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -792,7 +759,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "8 → f8",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -816,7 +782,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "9 → f9",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -840,7 +805,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "10 → f10",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -864,7 +828,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "11 → f11",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -888,7 +851,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "12 → f12",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -912,7 +874,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "; → 다음 한 단어 선택",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -935,7 +896,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": ". → 이모지",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -958,7 +918,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "spacebar → (VSCode) 커서 뒤로가기",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -980,7 +939,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "esc → grave",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -1004,7 +962,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "\\ → Salesforce",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -1058,7 +1015,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "{ → private",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
@@ -1137,7 +1093,6 @@
 					"type": "basic"
 				},
 				{
-					"_comment": "} → private",
 					"conditions": [
 						{
 							"name": "ksh_karabiner",
